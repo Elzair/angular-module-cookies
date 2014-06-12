@@ -2,7 +2,7 @@ angular-module-cookies
 ======================
 
 Cookies AngularJS module suitable for bundling with [Browserify](http://browserify.org/) or [Webpack](http://webpack.github.io/)
-]
+
 Installation
 ------------
 
