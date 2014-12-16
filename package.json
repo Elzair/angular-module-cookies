@@ -1,6 +1,6 @@
 {
   "name": "angular-module-cookies",
-  "version": "1.3.0",
+  "version": "1.3.7",
   "description": "Cookies AngularJS module suitable for bundling with Browserify or Webpack",
   "main": "angular-cookies.js",
   "scripts": {
